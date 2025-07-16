@@ -247,11 +247,6 @@
     min-height: 56px;
   }
 
-  .logo {
-    width: 48px;
-    height: 48px;
-  }
-
   .companyName {
     font-size: 1.1rem;
   }
@@ -307,11 +302,6 @@
     gap: 10px;
     margin-bottom: 18px;
     min-height: 50px;
-  }
-
-  .logo {
-    width: 45px;
-    height: 45px;
   }
 
   .companyName {
@@ -379,11 +369,6 @@
     min-height: 45px;
   }
 
-  .logo {
-    width: 40px;
-    height: 40px;
-  }
-
   .companyName {
     font-size: 1rem;
   }
@@ -449,11 +434,6 @@
     min-height: 40px;
   }
 
-  .logo {
-    width: 35px;
-    height: 35px;
-  }
-
   .companyName {
     font-size: 0.95rem;
   }
@@ -511,11 +491,6 @@
     gap: 5px;
     margin-bottom: 10px;
     min-height: 35px;
-  }
-
-  .logo {
-    width: 30px;
-    height: 30px;
   }
 
   .companyName {
